@@ -1,1 +1,21 @@
 /* your code */
+table,td,tr,th {
+	border-collapse:collapse;
+	width:500px;
+}
+thead {
+	background-color: lightblue;
+	color:white;
+	
+}
+.row-1, .row-3 {
+	background-color: white;
+	color:gray;
+	width:300px;
+}
+
+.row-2, .row-4 {
+	background-color: lightgray;
+	color:grey;
+	width:300px;
+}
